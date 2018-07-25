@@ -30,7 +30,7 @@ export default () => {
         }
       `}</style>
 
-      <h1>Intense Camping Updated</h1>
+      <h1>Intense Camping with Ian's Updates</h1>
       <h2>{`Book Your ${intensity.toUpperCase()} Trip`}</h2>
       <p><Link href="/trips"><a>Sign-up Now</a></Link></p>
       <img src={`/images/${intensity}-camping.jpg`} alt={intensity}/>
